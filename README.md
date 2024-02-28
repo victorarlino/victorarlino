@@ -15,7 +15,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 22 anos, atualmente moro em Fortaleza, CE, Brasil. Estudo Python, Atualmente trabalho como estoquista, o que me proporciona experiência prática e experiência em trabalho em equipe
 
