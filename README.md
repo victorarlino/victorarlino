@@ -1,16 +1,30 @@
-### Olá!! Eu sou Victor Arlino 🌪️
-
-
-- 🔭 Estudante de ads e procurando estagio
-- 🌱 Estudando Python
-- 😄 Pronouns: Ele/Dele
-
-- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
+
+<!-- Presentation -->
+<p>
+  oii 👋, Eu sou victor Arlino 
+
+  - 🌱 Atualemte sou estudante de ADS na unifor , estou no meu 4 semestre da faculdade
+
+  - 🔭 Estou em busca do meu primeiro estagio 
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 Tenho 22 anos, atualmente moro em Fortaleza, CE, Brasil. Estudo Python, Atualmente trabalho como estoquista, o que me proporciona experiência prática e experiência em trabalho em equipe
+
+  - ⚡ Gosto de ler, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
+</details>
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=victorarlino_icons=true&theme=gotham)
+
 
 <div> 
   <a href="https://instagram.com/victor_arlino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
