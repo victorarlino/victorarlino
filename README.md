@@ -22,7 +22,7 @@
   - ⚡ Gosto de ler, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wei13on9mvwz2dk3qrv0r18ys&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=44ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wei13on9mvwz2dk3qrv0r18ys&redirect=true)
+
   
 
 ##
